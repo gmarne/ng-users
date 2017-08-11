@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "type": "General Manager",
+    "name": "Umesh Manedi",
+    "salary": 220000,
+    "address": "213 Grove Street",
+    "description": " directs and coordinates activities of one or more departments,such as engineering, operations or sales, or a major division of the business organization and aids chief administrative officers in formulating and administering organization policies",
+    "details": {
+    },
+    "image":"crib-1"
+  },
+  {
+    "id": 2,
+    "type": "Team Lead",
+    "name": "Dani",
+    "salary": 171050,
+    "address": "7823 Winding Way",
+    "description": "Ensure project is developed in line with TM Forum IPR policy.Encourage all participants to take an active role in the project.Ensure participants have a clear understanding of what they need to complete and when, Drive the project team for on time delivery. Lead the design, planning and execution validation activities. Identify key companies required to position for industry adoption.",
+    "details": {
+    },
+    "image":"crib-2"
+  },
+  {
+    "id": 3,
+    "type": "Tester",
+    "name": "Arya Stark",
+    "salary": 100590,
+    "address": "7807 Forest Avenue",
+    "description": "Best house on the block!",
+    "details": {},
+    "image":"crib-4"
+  },
+  {
+    "id": 4,
+    "type": "General Manager",
+    "name": "John Snow",
+    "salary": 210500,
+    "address": "1857 Andover Court",
+    "description": "overlap with leadership skills, as both involve problem-solving, decision-making, planning, delegation, communication, and time management. Good managers are often good leaders. And yet the two roles are distinct. In general, management is about organization.",
+    "details": {},
+    "image":"crib-5"
+  },
+  {
+    "id": 5,
+    "type": "Senior Developer",
+    "name": "Thoen Greyjoy",
+    "salary": 120900,
+    "address": "7398 East Avenue",
+    "description": "You'll love the view!",
+    "details": {},
+    "image":"crib-6"
+  },
+   {
+    "id": 6,
+    "type": "Team Lead",
+    "name": "Mahmood",
+    "salary": 110500,
+    "address": "1857 Andover Court",
+    "description": "Nice little condo with room to grow.",
+    "details": {},
+    "image":"crib-5"
+  }
+]
