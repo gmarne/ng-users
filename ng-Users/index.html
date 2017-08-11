@@ -96,8 +96,6 @@
 		              	ng-model="newListing.salary">
 		            </div>
 		          </div>
-				
-		
 		          <div class="col-sm-4">
 		            <div class="input-group">
 		              <span class="input-group-addon">Job Type</span>
@@ -115,7 +113,6 @@
 		            </div>
 		          </div>
 		        </div>
-
 		        <div class="row listing-form-row">
 		          <div class="col-sm-4">
 		            <div class="input-group">
@@ -129,11 +126,11 @@
 		            </div>
 		          </div>
 		        </div>
-						<button 
-							class="btn btn-primary listing-button"
-							ng-click="addUser(newListing)"
-							ng-show="addListing">Add
-						</button>
+			<button 
+			class="btn btn-primary listing-button"
+			ng-click="addUser(newListing)"
+			ng-show="addListing">Add
+			</button>
 		        <pre>{{newListing | json}}</pre>
 		      </div>
 
@@ -223,10 +220,7 @@
 
 		  </div>
 	  </div>
-
-	    
-
-
+			
 	  <!-- ng-User Listings -->
     <div class="container">
       <div class="col-sm-4" 
@@ -242,9 +236,7 @@
               <h4><i class="glyphicon glyphicon-home"></i> {{user.address}} 
                 <span class="label label-primary label-sm">{{user.type}}</span>
               </h4>
-
             </div>             
-
             <button class="btn btn-xs btn-success" 
                     ng-hide="showDetails === true" 
                     ng-click="showDetails = !showDetails">
@@ -268,7 +260,6 @@
               <p>{{user.description}}</p>   
 
             </div>
-
           </div> 
         </div>
       </div>          
