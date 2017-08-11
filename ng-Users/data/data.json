@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "General Manager",
-    "name": "Umesh Manedi",
+    "name": "Umesh",
     "salary": 220000,
     "address": "213 Grove Street",
     "description": " directs and coordinates activities of one or more departments,such as engineering, operations or sales, or a major division of the business organization and aids chief administrative officers in formulating and administering organization policies",
@@ -24,30 +24,30 @@
   {
     "id": 3,
     "type": "Tester",
-    "name": "Arya Stark",
+    "name": "Arya",
     "salary": 100590,
     "address": "7807 Forest Avenue",
-    "description": "Best house on the block!",
+    "description": "Meeting with system users to understand the scope of projects, working with software developers and project support teams, identifying business requirements, project planning, monitoring applications and software systems, stress testing, performance testing, functional testing, scalability testing, writing and executing test scripts, running manual and automated tests, testing in different environments including web and mobile, writing bug reports ,resource planning, reviewing documentation ,working towards departmental and project deadlines, quality assurance",
     "details": {},
     "image":"crib-4"
   },
   {
     "id": 4,
     "type": "General Manager",
-    "name": "John Snow",
+    "name": "John ",
     "salary": 210500,
     "address": "1857 Andover Court",
-    "description": "overlap with leadership skills, as both involve problem-solving, decision-making, planning, delegation, communication, and time management. Good managers are often good leaders. And yet the two roles are distinct. In general, management is about organization.",
+    "description": "Overlap with leadership skills, as both involve problem-solving, decision-making, planning, delegation, communication, and time management. Good managers are often good leaders. And yet the two roles are distinct. In general, management is about organization.",
     "details": {},
     "image":"crib-5"
   },
   {
     "id": 5,
     "type": "Senior Developer",
-    "name": "Thoen Greyjoy",
+    "name": "Thoen",
     "salary": 120900,
     "address": "7398 East Avenue",
-    "description": "You'll love the view!",
+    "description": "Translate application storyboards and use cases into functional applications. Design, build, and maintain efficient, reusable, and reliable Java code. Ensure the best possible performance, quality, and responsiveness of the applications. Identify bottlenecks and bugs, and devise solutions to these problems. Help maintain code quality, organization, and automatization",
     "details": {},
     "image":"crib-6"
   },
@@ -57,7 +57,7 @@
     "name": "Mahmood",
     "salary": 110500,
     "address": "1857 Andover Court",
-    "description": "Nice little condo with room to grow.",
+    "description": "Create an inspiring team environment with an open communication culture. Set clear team goals, Delegate tasks and set deadlines, Oversee day-to-day operation, Monitor team performance and report on metrics, Motivate team members, Discover training needs and provide coaching, Listen to team members’ feedback and resolve any issues or conflicts, Recognize high performance and reward accomplishments, Encourage creativity and risk-taking.",
     "details": {},
     "image":"crib-5"
   }
